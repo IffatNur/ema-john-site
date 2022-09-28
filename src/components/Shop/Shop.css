@@ -1,0 +1,14 @@
+.container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    padding: 5% 10%;
+}
+.cart-container{
+    background-color: #FFE0B3;
+    text-align: center; 
+}

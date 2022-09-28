@@ -1,0 +1,17 @@
+.bill{
+    position: sticky;
+    top: 10px;
+}
+.details{
+    text-align: left;
+    padding-left: 40px;
+}
+.bill button{
+    padding: 8px 30px;
+    margin-bottom: 5px;
+    width: 80%;
+    border: none;
+}
+.bill>button{
+    background-color: #FF9900;
+}
